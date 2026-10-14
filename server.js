@@ -1,3 +1,4 @@
+process.exit(1);
 import http from 'node:http';
 const version = process.env.APP_VERSION || 'v1';
 http.createServer((req, res) => {
