@@ -1,0 +1,1 @@
+{ "name": "shipdok-test-app", "type": "module", "scripts": { "start": "node server.js" } }
